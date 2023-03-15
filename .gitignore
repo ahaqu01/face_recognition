@@ -1,0 +1,10 @@
+**/*.pyc
+**/__pycache__/*
+**/.idea/*
+*.engine
+*.onnx
+**/Thumbs.db
+logs/*
+features_lib/*
+TensorRT-8.0.0.3/*
+speed_up_weights/*

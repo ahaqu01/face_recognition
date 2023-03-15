@@ -1,0 +1,15 @@
+h5py==3.7.0
+numpy==1.20.2
+onnx==1.8.1
+opencv_python==4.5.5.64
+Pillow==9.1.1
+pycuda==2021.1
+scikit_image==0.19.2
+scikit_learn==1.0.2
+tensorrt==8.0.0.3
+torch==1.9.0
+torchvision==0.10.0
+flask==2.1.2
+flask_cors==3.0.10
+gevent==21.12.0
+protobuf==3.19.0

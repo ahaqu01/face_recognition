@@ -1,0 +1,6 @@
+[submodule "retinaface"]
+	path = retinaface
+	url = https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/retinaface.git
+[submodule "facenet"]
+	path = facenet
+	url = https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/facenet.git
