@@ -12,7 +12,7 @@ https://docs.nvidia.com/deeplearning/tensorrt/install-guide/index.html#installin
 
 #### 二、使用样例
 
-git clone --recurse-submodules  -b yyc_dev  https://github.com/ahaqu01/face_recognition.git
+git clone --recurse-submodules  https://github.com/ahaqu01/face_recognition.git
 
 下载代码
 
